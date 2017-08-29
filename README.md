@@ -1,4 +1,4 @@
-# Linux Admin Resources
+# Linux Admin - Resource List
 Understand the architecture, setup, commands, and administration of a Linux system.
 
 ## Download
