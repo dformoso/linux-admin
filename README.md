@@ -1,5 +1,5 @@
 # Linux Admin - Resource List
-Understand the architecture, setup, commands, and administration of a Linux system.
+A quick summary of the architecture, setup, commands, and administration of a Linux system.
 
 ## Download
 Download the mindmap PDF here:
