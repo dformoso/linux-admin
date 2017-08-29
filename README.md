@@ -1,4 +1,4 @@
-# Linux Admin Tutorial
+# Linux Admin Resources
 Understand the architecture, setup, commands, and administration of a Linux system.
 
 ## Download
@@ -14,6 +14,11 @@ Get an idea of how a Linux system comes together. Here's a screenshot to show wh
 A list of the base directories in Linux and their purpose, also in the mindmap.
 
 ![alt text](https://github.com/dformoso/linux-admin/blob/master/images/directories.png)
+
+## vi Commands
+Visually Represented.
+
+![alt text](https://github.com/dformoso/linux-admin/blob/master/images/vi.png)
 
 ## Install Basic Packages
 
@@ -556,6 +561,4 @@ echoFunction;
 echo $?
 ```
 
-## vi Commands
 
-![alt text](https://github.com/dformoso/linux-admin/blob/master/images/vi.png)
