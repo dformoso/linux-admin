@@ -163,7 +163,7 @@ timedatectl set-timezone "Asia/Kathmandu"
 timedatectl set-ntp false
 locale                                       # Get locale-specific information - LC_ALL
 date                                         # Print or set the system date and time
-date +%s                                     # Print or set the system date and time in UNIX epock time
+date +%s                                     # Print or set the system date and time in UNIX epoch time
 ntpd                                         # Network Time Protocol (NTP) daemon - auto update
 ntpdate                                      # Set the date and time via NTP - manual update
 ntpdate pool.ntp.org
