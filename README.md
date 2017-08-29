@@ -1,6 +1,16 @@
 # Linux Admin Tutorial
 Understand the architecture, setup, commands, and administration of a Linux system.
 
+## Linux Components
+Get an idea of how a Linux system comes together.
+
+![alt text](https://github.com/dformoso/linux-admin/blob/master/images/linux.png)
+
+## Linux Directories
+A list of the base directories in Linux and their purpose.
+
+![alt text](https://github.com/dformoso/linux-admin/blob/master/images/directories.png)
+
 ## Install Basic Packages
 
 ```shell
@@ -541,3 +551,7 @@ echoFunction;
 
 echo $?
 ```
+
+## vi Commands
+
+![alt text](https://github.com/dformoso/linux-admin/blob/master/images/vi.png)
