@@ -33,7 +33,6 @@ apt-get -y install yum rpm quota xorg openbox ntpdate ntp postfix mutt cups xine
 
 ```shell
 ## DIRECTORIES ##
-cat      /etc/init.d/hostname.conf           # Uses /etc/hostname to update kernel with hostname
 cat      /etc/hostname                       # Instance's hostname
 cat      /etc/nsswitch.conf                  # List of Databases: 'passwd', 'hosts', and sources for those DBs
 cat      /etc/hosts                          # Mapping of hostnames to IP addresses
