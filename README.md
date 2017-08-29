@@ -1,13 +1,17 @@
 # Linux Admin Tutorial
 Understand the architecture, setup, commands, and administration of a Linux system.
 
+## Download
+Download the mindmap PDF here:
+- https://github.com/dformoso/linux-admin/blob/master/mindmap.pdf
+
 ## Linux Components
-Get an idea of how a Linux system comes together.
+Get an idea of how a Linux system comes together. Here's a screenshot to show what the PDF looks like.
 
 ![alt text](https://github.com/dformoso/linux-admin/blob/master/images/linux.png)
 
 ## Linux Directories
-A list of the base directories in Linux and their purpose.
+A list of the base directories in Linux and their purpose, also in the mindmap.
 
 ![alt text](https://github.com/dformoso/linux-admin/blob/master/images/directories.png)
 
