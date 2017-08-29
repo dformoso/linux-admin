@@ -533,7 +533,6 @@ while i != 10
 do
     i = `expr i + 1`
 done
-```
 
 echoFunction() {
   echo "echo is Called"
@@ -541,3 +540,4 @@ echoFunction() {
 echoFunction;
 
 echo $?
+```
